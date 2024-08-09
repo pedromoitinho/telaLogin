@@ -1,0 +1,38 @@
+*{
+    font-family:Helvetica;
+    margin:0;
+    padding:0;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:720px;
+    text-align:left;
+    
+    
+}
+form{
+    border:2px solid black;
+    padding:35px 25px;
+}
+.nome{
+    font-size:1.2em;
+    
+}
+.label{
+    font-size:1.2em;
+}
+input{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+button{
+    background-color:red;
+    margin-top:10px;
+    color:white;
+    padding:5px 10px;
+    cursor:pointer;
+    
+    
+}
