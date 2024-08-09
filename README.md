@@ -1,5 +1,5 @@
 <h1>Tela de Login</h1>
-<img src="./images.png">
+<img src="./image.png">
 <h3>Tecnologias Utilizadas:</h3>
 <ul>
   <li>JQuery</li>
